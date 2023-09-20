@@ -10,6 +10,3 @@ for _ in range(t):
         print("YES")
     else:
         print("NO")
-    print(list)
-    print(new_list)
-    print(new_list_dsc)
